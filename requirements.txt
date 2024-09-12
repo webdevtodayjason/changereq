@@ -1,0 +1,6 @@
+Flask
+slack-sdk
+google-auth
+gspread
+google-auth-oauthlib
+python-dotenv
