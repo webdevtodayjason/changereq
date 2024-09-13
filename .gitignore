@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 
+KEYS/variables.txt
+
+
+
