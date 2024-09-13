@@ -67,7 +67,7 @@ Follow these steps to set up the project locally:
 
 3. **Install Dependencies:**
 
-       ```bash
+   ```bash
    pip install -r requirements.txt
    ```
 ## Configuration
@@ -171,11 +171,4 @@ To submit a change request via Slack modal, send a POST request to:
 ```bash
 http://<your_railway_url>/changereq
 ```
-
-## Contributing
-
-We welcome contributions to the project! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+    
