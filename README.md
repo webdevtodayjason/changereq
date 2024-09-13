@@ -10,6 +10,8 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Configuration](#configuration)
+  - [Google API Setup](#google-api-setup)
+  - [Slack API Setup](#slack-api-setup)
 - [Running the Application Locally](#running-the-application-locally)
 - [Deployment with Railway](#deployment-with-railway)
 - [Endpoints](#endpoints)
